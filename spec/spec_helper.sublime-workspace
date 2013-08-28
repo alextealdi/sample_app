@@ -1,0 +1,177 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"have",
+				"have_selector"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 338.0,
+		"selected_items":
+		[
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alexandertealdi/rails_projects/sample_app/sample_app",
+		"/Users/alexandertealdi/rails_projects/sample_app/sample_ap",
+		"/Users/alexandertealdi/rails_projects/sample_app/Guardfile",
+		"/Users/alexandertealdi/rails_projects/sample_app/spec/spec_helper.rb",
+		"/Users/alexandertealdi/rails_projects/sample_app/.rspec",
+		"/Users/alexandertealdi/rails_projects/sample_app/config/routes.rb",
+		"/Users/alexandertealdi/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/alexandertealdi/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/alexandertealdi/rails_projects/sample_app/public/hello.html",
+		"/Users/alexandertealdi/rails_projects/sample_app/readme.rdoc",
+		"/Users/alexandertealdi/rails_projects/sample_app/readme",
+		"/Users/alexandertealdi/rails_projects/sample_app/readme.md",
+		"/Users/alexandertealdi/rails_projects/sample_app/Gemfile",
+		"/Users/alexandertealdi/rails_projects/demo_app/app/models/micropost.rb",
+		"/Users/alexandertealdi/rails_projects/demo_app/app/controllers/microposts_controller.rb",
+		"/Users/alexandertealdi/Desktop/flame1",
+		"/Users/alexandertealdi/Desktop/dog-in-a-car",
+		"/Users/alexandertealdi/Downloads/sitemap.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "spec_helper.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sampleapp",
+				"~/rails_projects/sample_app/Guardfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 338.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
